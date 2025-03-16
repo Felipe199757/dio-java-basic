@@ -1,5 +1,5 @@
 package edu.felipe.tema.anatomiaDasClasses;
-public class App {
+public class MinhaClasse {
     public static void main(String[] args) throws Exception {
         String primeiroNome = "Felipe";
         String segundoNome = "Soares";
