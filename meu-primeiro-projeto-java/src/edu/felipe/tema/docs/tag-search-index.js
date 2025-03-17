@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Calculadora","h":"class edu.felipe.tema.documentacao.Calculadora","d":"Section","u":"edu/felipe/tema/documentacao/Calculadora.html#calculadora-heading"}];updateSearchResults();
